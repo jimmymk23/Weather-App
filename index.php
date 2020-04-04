@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <p><span id="location"></span></p>
+    <p><span id="city"></span></p>
     <p><span id="currentTemp"></span></p>
     <p><span id="highTemp"></span></p>
     <p><span id="lowTemp"></span></p>
@@ -19,6 +19,6 @@
     <p><span id=""></span></p>
     <p><span id=""></span></p>
 
-    <script defer src="weather.js"></script>
+    <script defer src="js/weather.js"></script>
 </body>
 </html>
